@@ -1,6 +1,6 @@
 # grail
 
-This is a simple tool to be used for managing and maintaining shared site-wide conda environments
+This is a simple tool to be used for managing and maintaining shared site-wide [conda](https://github.com/conda/conda) environments
 in a stable and consistent manner, allowing one to keep up with system user requirements.
 
 This is originally being written for use on shared use research computing clusters, so we may more
